@@ -1,8 +1,8 @@
 # designPatterns
 设计模式
 
-[Head First Design Patterns 百度网盘（密码：8fo9）](https://pan.baidu.com/s/1Z59AvdQPqkionDjvZA4jbA)
-[Head First Design Patterns(source code)](https://github.com/bethrobson/Head-First-Design-Patterns)
+[Head First Design Patterns(source code)](https://github.com/bethrobson/Head-First-Design-Patterns)</br>
+[Head First Design Patterns(pdf)(password:8fo9)](https://pan.baidu.com/s/1Z59AvdQPqkionDjvZA4jbA)
 
 使用IntelliJ IDEA编辑的项目
 采用Springboot+Maven构建的项目
